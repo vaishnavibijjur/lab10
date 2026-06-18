@@ -1,6 +1,6 @@
 version: 0.2
 phases:
-  run-time versions:
+  run-time Versions:
     java: corretto21
 
 build:
